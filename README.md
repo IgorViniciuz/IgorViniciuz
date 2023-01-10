@@ -1,4 +1,4 @@
-Olá, sou Igor Vinícius e estou me aprofundando nos conteúdos de programação!
+Olá, sou Igor Vinícius e estou me aprofundando nos conteúdos de programação a fim de conseguir meu primeiro emprego na área de tecnologia.
 
 <div align="center">
   <a href="https://github.com/IgorViniciuz">
