@@ -1,4 +1,4 @@
-Olá, sou Igor Vinícius e estou me aprofundando nos conteúdos de programação a fim de conseguir meu primeiro emprego na área de tecnologia.
+Olá, sou Igor Vinícius e estou me aprofundando nos conteúdos de tecnologia, comecei meus estudos na área da programação no final de 2022 e espero atuar como desenvolvedor back-end.
 
 <div align="center">
   <a href="https://github.com/IgorViniciuz">
